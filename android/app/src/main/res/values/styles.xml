@@ -9,7 +9,6 @@
     <style name="CalculatorInputContainer">
         <item name="android:background">@color/input_container_background</item>
     </style>
-
     <style name="CalculatorInputButton">
         <item name="android:gravity">center</item>
         <item name="android:background">@drawable/input_item_border</item>
